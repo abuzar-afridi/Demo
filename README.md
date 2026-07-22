@@ -9,6 +9,6 @@ Just Learning how to Git & GitHub
 # git add fileName
 # git add .
 # git status
-# git commit
-# 
+# git commit -m "Discription"
+# git push origin main
 #
