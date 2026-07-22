@@ -1,2 +1,3 @@
 # Demo
-This a Demo repository
+This a Demo Repo
+Just Learning how to Git & GitHub
